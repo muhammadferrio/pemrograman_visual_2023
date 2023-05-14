@@ -1,0 +1,10 @@
+c:\users\axioo\documents\visual studio 2015\Projects\Motor\Motor\bin\Debug\Motor.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\Motor\Motor\bin\Debug\Motor.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Motor\Motor\bin\Debug\Motor.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\Motor\Motor\bin\Debug\Motor.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Motor\Motor\obj\Debug\Motor.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Motor\Motor\obj\Debug\Motor.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Motor\Motor\obj\Debug\Motor.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\Motor\Motor\obj\Debug\Motor.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Motor\Motor\obj\Debug\Motor.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Motor\Motor\obj\Debug\Motor.pdb
