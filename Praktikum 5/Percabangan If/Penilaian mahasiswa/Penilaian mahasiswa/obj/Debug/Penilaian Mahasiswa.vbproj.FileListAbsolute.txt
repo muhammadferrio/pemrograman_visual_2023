@@ -1,0 +1,10 @@
+c:\users\axioo\documents\visual studio 2015\Projects\Penilaian Mahasiswa\Penilaian Mahasiswa\bin\Debug\Penilaian Mahasiswa.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\Penilaian Mahasiswa\Penilaian Mahasiswa\bin\Debug\Penilaian Mahasiswa.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Penilaian Mahasiswa\Penilaian Mahasiswa\bin\Debug\Penilaian Mahasiswa.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\Penilaian Mahasiswa\Penilaian Mahasiswa\bin\Debug\Penilaian Mahasiswa.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Penilaian Mahasiswa\Penilaian Mahasiswa\obj\Debug\Penilaian_Mahasiswa.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Penilaian Mahasiswa\Penilaian Mahasiswa\obj\Debug\Penilaian_Mahasiswa.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Penilaian Mahasiswa\Penilaian Mahasiswa\obj\Debug\Penilaian Mahasiswa.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\Penilaian Mahasiswa\Penilaian Mahasiswa\obj\Debug\Penilaian Mahasiswa.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Penilaian Mahasiswa\Penilaian Mahasiswa\obj\Debug\Penilaian Mahasiswa.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Penilaian Mahasiswa\Penilaian Mahasiswa\obj\Debug\Penilaian Mahasiswa.pdb
