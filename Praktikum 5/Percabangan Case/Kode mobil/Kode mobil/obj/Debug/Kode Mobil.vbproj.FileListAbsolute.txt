@@ -1,0 +1,10 @@
+c:\users\axioo\documents\visual studio 2015\Projects\Kode Mobil\Kode Mobil\bin\Debug\Kode Mobil.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\Kode Mobil\Kode Mobil\bin\Debug\Kode Mobil.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Kode Mobil\Kode Mobil\bin\Debug\Kode Mobil.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\Kode Mobil\Kode Mobil\bin\Debug\Kode Mobil.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Kode Mobil\Kode Mobil\obj\Debug\Kode_Mobil.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Kode Mobil\Kode Mobil\obj\Debug\Kode_Mobil.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Kode Mobil\Kode Mobil\obj\Debug\Kode Mobil.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\Kode Mobil\Kode Mobil\obj\Debug\Kode Mobil.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Kode Mobil\Kode Mobil\obj\Debug\Kode Mobil.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Kode Mobil\Kode Mobil\obj\Debug\Kode Mobil.pdb
